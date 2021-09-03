@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Ota1022.github.io/sitemap.xml

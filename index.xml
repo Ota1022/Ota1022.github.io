@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itaru Ota Resume</title>
+    <link>https://Ota1022.github.io/</link>
+      <atom:link href="https://Ota1022.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Itaru Ota Resume</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Itaru Ota</copyright><lastBuildDate>Sat, 21 Aug 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Ota1022.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Itaru Ota Resume</title>
+      <link>https://Ota1022.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Geiot Final Results Presentation</title>
+      <link>https://Ota1022.github.io/talk/geiot-final-results-presentation/</link>
+      <pubDate>Sat, 21 Aug 2021 13:00:00 +0000</pubDate>
+      <guid>https://Ota1022.github.io/talk/geiot-final-results-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limco</title>
+      <link>https://Ota1022.github.io/project/example/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://Ota1022.github.io/project/example/</guid>
+      <description>&lt;p&gt;Limco is a open source software of a collection of the stylometric measures for authorship detection that are suggested to have relationships to the attitudes and psychological tendencies of authors. This library can calculate 12 types of stylometrics, based on Japanese text metrics organised in Asaishi (2017).&lt;/p&gt;
+&lt;p&gt;I am taking part in rewriting codes based on Mecab/Cobocha to spaCy/GiNZA, and developing its Python package using Poetry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Ota1022.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Ota1022.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
