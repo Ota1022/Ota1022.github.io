@@ -1,1 +1,0 @@
-# Ota1022.github.io
